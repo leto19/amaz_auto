@@ -1,0 +1,36 @@
+1605991275837	geckodriver	INFO	Listening on 127.0.0.1:44513
+1605991275843	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKoTAPV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605991279370	Marionette	INFO	Listening on port 35513
+1605991279483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery, line 54: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1605991284568	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+send@https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:173:19
+ajax@https://images-eu.ssl-images-amazon.com/images/I/61-6nKPKyWL.js?AUIClients/AmazonUIjQuery:167:155
+@https://d1nruqhae353qc.cloudfront.net/primesignup/uk/widget.js?_=1605991283595:172:15
+n@https://www.amazon.co.uk/dp/B07WDF13WC:84:74
+W/</<@https://www.amazon.co.uk/dp/B07WDF13WC:85:391
+ca@https://www.amazon.co.uk/dp/B07WDF13WC:88:524
+1605991305054	Marionette	INFO	Stopped listening on port 35513
+1605991363761	geckodriver	INFO	Listening on 127.0.0.1:58463
+1605991363768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileU6cUOp"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605991365930	Marionette	INFO	Listening on port 40083
+1605991366027	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605991375854	Marionette	INFO	Stopped listening on port 40083
+1605991398918	geckodriver	INFO	Listening on 127.0.0.1:46307
+1605991398923	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileevydCV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605991401177	Marionette	INFO	Listening on port 42043
+1605991401253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605991416326	Marionette	INFO	Stopped listening on port 42043
+1605991430451	geckodriver	INFO	Listening on 127.0.0.1:59825
+1605991430456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3W8oJJ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605991432778	Marionette	INFO	Listening on port 34095
+1605991432889	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605991467963	Marionette	INFO	Stopped listening on port 34095
